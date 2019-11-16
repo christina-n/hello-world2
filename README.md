@@ -1,2 +1,5 @@
 # hello-world2
-Second Hello World repository on Git.
+
+Hello World!
+
+I'm Christina and I like computer science and astronomy :)
